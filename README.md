@@ -7,7 +7,12 @@ To implement dashboard and score predictor we have aslo created a website where 
 
 
 ## Video demostration of project
-https://drive.google.com/drive/folders/1rCfL78BunydQHraR27QnhSG89krG1aQ6?usp=sharing
+
+[Youtube] : https://youtu.be/24eZ1E4Mswc
+
+[Drive] : https://drive.google.com/drive/folders/1rCfL78BunydQHraR27QnhSG89krG1aQ6?usp=sharing
+
+Video in youtube and drive both are same 
 
 
   
